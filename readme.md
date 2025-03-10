@@ -1,0 +1,1 @@
+A database application for managing a tea shop. The application allows adding and editing data while ensuring data validation. It also includes a simple dashboard for monitoring the shop's earnings.
